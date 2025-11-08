@@ -7,7 +7,7 @@ name = "ligotools"
 version = "0.1.0"
 description = "LIGO tools for signal processing and analysis"
 authors = [
-    { name = "Ligo Scientific Collaboration (LSC) and David Robertson }
+    { name = "Ligo Scientific Collaboration (LSC) and David Robertson" }
 ]
 readme = "README.md"
 requires-python = ">=3.9"
