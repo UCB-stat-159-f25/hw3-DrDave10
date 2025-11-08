@@ -1,0 +1,12 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: HW3 Website
+site:
+  nav:
+    - Home: index.md
+    - Notebook: main.ipynb
+actions:
+  - title: Launch Binder
+    url: https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-DrDave10/HEAD?urlpath=lab/tree/main.ipynb
+
