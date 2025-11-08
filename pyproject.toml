@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel", "numpy"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ligotools"
+version = "0.1.0"
+description = "LIGO tools for signal processing and analysis"
+authors = [
+    { name = "Ligo Scientific Collaboration (LSC) and David Robertson }
+]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "h5py",
+    "astropy",
+    "gwpy",
+    "requests"
+]
